@@ -1,0 +1,12 @@
+{
+    "AnalizeImageList":{
+        "Body": {
+            "imageUrls":[
+                "https://img.freepik.com/free-photo/careless-rude-girl-showing-middle-finger-person_176420-21631.jpg",
+                "https://cdn.upsocl.com/wp-content/uploads/2019/10/GROSERIAS.jpg"
+            ],
+            "analysisType": "AllLabels"
+        },
+        "Url": "http://localhost:5086/api/ImageAnalyzer/AnalyzeImageList"
+    }
+}
